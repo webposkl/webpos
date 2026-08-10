@@ -10,6 +10,7 @@ One folder per area. Each area folder has its own `CLAUDE.md` (how to work there
 
 - `marketing/` — getting the right people to notice me and raise their hand. Holds my two top priorities right now: `website/` and `lead-gen/`.
 - `sales/` — turning leads into paying customers and keeping them.
+- `operations/` — delivering the POS after the sale: onboarding, hardware, support.
 - `finances/` — money in, money out, and what the numbers are telling me.
 - `content/` — what I publish. Feeds marketing and sales.
 - `health/` — my energy and focus, so I can actually run all of this.

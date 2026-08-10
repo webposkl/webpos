@@ -12,6 +12,7 @@ Help me move leads through to a decision without pressure, and keep the process 
 ## Where to find things
 - Pipeline, pricing, what closes: `context/`
 - Where leads come from: `../marketing/lead-gen/`
+- Who delivers after a customer signs: `../operations/`
 - What the numbers mean: `../finances/`
 
 Point, don't store. Knowledge goes in `context/`.
