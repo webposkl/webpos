@@ -1,0 +1,5 @@
+# Regenerable render intermediates (recreate via music.py / the render pipeline)
+music_raw.wav
+final_audio.wav
+__pycache__/
+*.pyc
